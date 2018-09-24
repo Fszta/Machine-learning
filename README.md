@@ -9,4 +9,14 @@ Main machine learning algorithms
   <li>K mean</li>
   <li>Random forest</li>
   <li>SVC</li>
+  <li>Neural network classification</li>
+</ul>
+
+<h2>Libraries</h2>
+<ul>
+  <li>Keras</li>
+  <li>Tensorflow</li>
+  <li>Tensorboard</li>
+  <li>scikit-learn</li>
+  
 </ul>
