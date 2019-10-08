@@ -11,3 +11,4 @@ Algorithms
 * KNN
 * Random forest
 * K-mean
+* LSTM
